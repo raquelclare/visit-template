@@ -1,0 +1,37 @@
+/*================== BODY ==================*/
+body {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+/*================== HEADING ==================*/
+#heading {
+	background: pink;
+	color: white;
+	font-weight: bolder;
+	font-size: 40px;
+	padding: 80px;
+}
+/*================== ROWS ==================*/
+#itinerary-section{
+	color: pink;
+	font-weight: bold;
+	text-align: 
+}
+.section {
+	color: grey;
+	/*border-style: solid;
+	border-color: pink;
+	border-radius: 25px;*/
+}
+h6 {
+	/*background: grey;*/ 
+	color: pink;
+	border-style: solid;
+	border-color: pink;
+	border-radius: 15px;
+}
+p {
+	text-align: left;
+}
+/*==================  ==================*/
+/*==================  ==================*/
