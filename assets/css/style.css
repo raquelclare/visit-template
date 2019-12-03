@@ -10,28 +10,28 @@ body {
 	font-weight: bolder;
 	font-size: 40px;
 	padding: 80px;
+	font-family: 'Alatsi', sans-serif;
 }
 /*================== ROWS ==================*/
-#itinerary-section{
-	color: pink;
-	font-weight: bold;
-	text-align: 
-}
 .section {
 	color: grey;
-	/*border-style: solid;
-	border-color: pink;
-	border-radius: 25px;*/
+}
+h5 {
+	color: pink;
+	font-weight: bold;
 }
 h6 {
-	/*background: grey;*/ 
 	color: pink;
-	border-style: solid;
-	border-color: pink;
-	border-radius: 15px;
 }
 p {
 	text-align: left;
+	color: grey;
 }
 /*==================  ==================*/
+li {
+	color: grey;
+}
 /*==================  ==================*/
+#navigating-section {
+	border-color: grey;
+}
